@@ -2,7 +2,7 @@
 
 # ComfyUI Run Dos Command
 
-用在ollama流程中调用dos 命令，用于特定的同步 window 系统操作的 comfyUI node. 流程需要串联text string类用于串联流程，输出传递text 到下一个文字流。
+用在ollama流程中调用dos 命令，用于特定的同步 window 系统操作的 comfyUI node. 流程需要串联text string类用于串联流程，输出传递text 到下一个文字流。南无阿弥陀佛。
 
  ComfyUI node used to call DOS commands in the Ollama workflow for specific synchronization of Windows system operations. The workflow needs to concatenate text string classes to connect the process and output the transferred text to the next text stream.
 
@@ -38,3 +38,4 @@ MIT
 # ComfyUI_run_dos_command
 A ComfyUI node used to call DOS commands in the Ollama workflow for specific synchronization of Windows system operations. The workflow needs to concatenate text string classes to connect the process and output the transferred text to the next text stream.
 >>>>>>> 628559bf844ea35e8cc62b095e0cec9b7c1cb745
+
